@@ -1,42 +1,42 @@
 body {
-    background-color: darkgoldenrod;
+  background-color: darkgoldenrod;
 }
 
 h2 {
-    color:yellow;
-    font-style: italic;
+  color: yellow;
+  font-style: italic;
 }
 
 button {
-    background-color:red;
-    margin: 10px;
-    padding: 10px;
-    cursor:pointer;
+  background-color: red;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
 }
 
 .couch {
-    color:aquamarine;
-    font-family:'Times New Roman', Times, serif;
-    background-color: black;
-    font-size:20px;
+  color: aquamarine;
+  font-family: "Times New Roman", Times, serif;
+  background-color: black;
+  font-size: 20px;
 }
-    
 
 .table {
-    color:rgb(182, 128, 128);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color:blue;
-    font-size:13px;
+  color: rgb(182, 128, 128);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: black;
+  font-size: 13px;
 }
 
 .chair {
-    color:black;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color:aquamarine;
-    font-size:15px;
+  color: cyan;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: black;
+  font-size: 15px;
 }
 
 button:hover {
-    background-color: white;
-    font-size: 15px;
+  background-color: white;
+  font-size: 15px;
 }
